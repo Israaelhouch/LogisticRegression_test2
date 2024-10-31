@@ -1,1 +1,2 @@
 # SL-LogosticRegressiontest2
+# SupervisedLearning_LogisticRegression_test_2
